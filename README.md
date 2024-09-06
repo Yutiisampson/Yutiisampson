@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yutiisampson
-- 🌱 I’m currently learning Front-End Web Development...
+- 🌱 I’m an aspiring Front-End Web Development...
 - ⚡ I'm studying Computer Science at Mountain Top University: .
 
 <!---
